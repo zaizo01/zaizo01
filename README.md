@@ -16,7 +16,7 @@ My name is Cristopher zaiz Ortega, I live in Dominican Republic and I'm 18 years
 - ReactJS
 - Tailwindcss
 
-### 🧑🏽‍💻 I'm working on 
+### :computer: I'm working on 
 
 - Building projects and my portfolio website. Although, I think I'll wait to learn React before I build the website.
 - Personal projects
